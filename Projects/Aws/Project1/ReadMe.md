@@ -1,5 +1,8 @@
 Project 1:  NACL and Security Group     (Note: command for pasting screenshot <!-- # <img src="Screenshot_1.png" alt="Workflow Chart" width="200px"> # -->)
 
+Note: Nacl for Subnet Level Security  |   Security group for Ec2 Instance Level Security
+
+
 <h1> WorkFlow Chart </h1>
 <img src="Screenshot_1.png" alt="Workflow Chart" width="700px">
 
