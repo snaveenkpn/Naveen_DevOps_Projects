@@ -1,4 +1,4 @@
 Project 1:  NACL and Security Group
 
 <h1> WorkFlow Chart </h1>
-<img src="Screenshot_1.png" alt="Workflow Chart" width="200px">
+<img src="Screenshot_1.png" alt="Workflow Chart" width="500px">
