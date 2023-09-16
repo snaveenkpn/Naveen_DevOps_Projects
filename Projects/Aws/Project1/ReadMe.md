@@ -37,6 +37,12 @@ To Do:
 
  Note: Least Rule Number will have high priority. For example in inbound rule there are rules which is 100 ( which allow port 8000) and 80 ( which deny port 8000). So here rule number 80 will take priority.
 
+<img src="Screenshot_3.png" alt="Workflow Chart" width="700px">
+
+
+
+ 
+
 9. Go to Browser --> paste public Ip:8000    [ It will not work ]
 
 
