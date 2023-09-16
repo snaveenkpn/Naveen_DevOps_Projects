@@ -26,7 +26,8 @@ To Do:
 
 7. Now Go to Acl --> Click the Nacl which is automatically created while creating Vpc. In Inbound rule of Nacl.
 
-< img src-"Screenshot_2.PNG" width-"700 px">
+<img src="Screenshot_2.png" alt="Workflow Chart" width="700px">
+
 
 
 8. In the inbound rule --> Add rule [ Rule No - 80, Custom tcp, port - 8000, deny]  
